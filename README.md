@@ -8,13 +8,13 @@ JS practice
 <li> Download the the html and css files in a same folder.</li> 
 <li> Open the html file in your browser. </li>
 <li> Place your mouse anywhere to see the eyeballs movement. </li>
-<li> Enjoy! </li>
+<li> Have fun! </li>
 
 </ol>
 
 <h2> Roadmap of future improvements </h2>
 <ul>
-<li> Change colors for up right left and bottom diretions </li>
+<li> Change colors for up right left and bottom diretions. </li>
 <li> Add the ability to blink eyes with the click of a button. </li>
 </ul>
 
