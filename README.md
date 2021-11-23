@@ -1,8 +1,8 @@
 # Eyes exercise
 JS practice
 <h2> Description </h2>
-<p> The eyes are made of basic shapes </p>
-<p> Eyeballs follow the mouse wherever its place in the screen </p>
+<p> The eyes are shaped by managing object properties. </p>
+<p> Eyeballs follow the mouse movement wherever its place within the limits of the screen. </p>
 <h2> How to Run </h2>
 <ol>
 <li> Download the the html and css files in a same folder.</li> 
